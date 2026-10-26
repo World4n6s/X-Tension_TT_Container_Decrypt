@@ -30,13 +30,15 @@ Cette X-tension, avec l'aide de l'IA, a été faire à partir du script du BKA (
 
 ![](https://i.imgur.com/gGNwCxt.png)
 
-\*\*1- Choisir soit le fichier à déchiffrer soit le répertoire contenant les fichiers à déchiffrer.
-2- Choisir le fichier contenant le clé de déchiffrement.
+1- Choisir soit le fichier à déchiffrer soit le répertoire contenant les fichiers à déchiffrer.<br>
+2- Choisir le fichier contenant le clé de déchiffrement.<br>
+
 ![](https://i.imgur.com/Yl4fQp4.png)
 
-\*\*3- choisir un dossier d'export
-4- si vous avez à travailler sur plusieurs fichiers, vous pouvez enregistrer les chemins "par défaut."
-5- lancer la recherche et le déchiffrement du ou des fichiers.
+
+3- choisir un dossier d'export.<br>
+4- si vous avez à travailler sur plusieurs fichiers, vous pouvez enregistrer les chemins "par défaut."<br>
+5- lancer la recherche et le déchiffrement du ou des fichiers.<br>
 
 ![](https://i.imgur.com/nArcESK.png)
 
