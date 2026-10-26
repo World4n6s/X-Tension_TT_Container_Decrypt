@@ -1,6 +1,6 @@
-**1- Présentation:**
+**1- Présentation:**<br>
 Cette X-tension permet le déchiffrement des containers TOMTOM directement à partir de X-Ways Forensic.
-Cette X-tension, avec l'aide de l'IA, a été faire à partir du script du BKA (Felix Rietig, BKA KT 53).
+Cette X-tension, avec l'aide de l'IA, a été faite à partir du script du BKA (Felix Rietig, BKA KT 53).
 
 **2- Installation:**
 
