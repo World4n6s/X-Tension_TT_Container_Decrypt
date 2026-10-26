@@ -1,13 +1,3 @@
----
-author:
-- David ROBIN
-Date: 2026-10-26
-tags:
-- Carforensic-2026
-- RECHERCHES
-- VEHICULES
----
-
 **1- Présentation:**
 Cette X-tension permet le déchiffrement des containers TOMTOM directement à partir de X-Ways Forensic.
 Cette X-tension, avec l'aide de l'IA, a été faire à partir du script du BKA (Felix Rietig, BKA KT 53).
